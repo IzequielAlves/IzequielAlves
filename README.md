@@ -1,5 +1,5 @@
 ## Hi there! I'm Izequiel Victor
-
+<img src="https://camo.githubusercontent.com/7f8c3adf83374b629b61ed3c98e8a8c4e0ea5b73892dd7923e179bddfdaad4d6/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d32362670617573653d3130303026636f6c6f723d3232433535452677696474683d343030266c696e65733d48656c6c6f2b576f726c64213b57656c636f6d6521?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGn1_QOBOo0l7YVDATlUFdRPCRrLgNJAtND1nudfwYaS_-BxBxPfEd4qYrLclo_aem_FCBA2Vkd_Sj0A93EACKSdQ">
 <div>
 💻 Software Development Student | 🚀 C# Desktop Development and simple WEB applications
 </div>
@@ -7,7 +7,6 @@
 <br>Building software and breaking things occasionally... 
 
 </div>
-<img src="https://camo.githubusercontent.com/7f8c3adf83374b629b61ed3c98e8a8c4e0ea5b73892dd7923e179bddfdaad4d6/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d32362670617573653d3130303026636f6c6f723d3232433535452677696474683d343030266c696e65733d48656c6c6f2b576f726c64213b57656c636f6d6521?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGn1_QOBOo0l7YVDATlUFdRPCRrLgNJAtND1nudfwYaS_-BxBxPfEd4qYrLclo_aem_FCBA2Vkd_Sj0A93EACKSdQ">
 <br>
 <div style="display: inline_block">
   <a href="https:// github.com/izequielalves">
